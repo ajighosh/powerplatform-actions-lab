@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_cr4de_ag" />
+  <EntityRelationship Name="business_unit_cr4de_agops" />
+  <EntityRelationship Name="business_unit_cr4de_ghoshag" />
+  <EntityRelationship Name="business_unit_cr4de_gitdeploy" />
+  <EntityRelationship Name="lk_cr4de_ag_createdby" />
+  <EntityRelationship Name="lk_cr4de_ag_modifiedby" />
+  <EntityRelationship Name="lk_cr4de_agops_createdby" />
+  <EntityRelationship Name="lk_cr4de_agops_modifiedby" />
+  <EntityRelationship Name="lk_cr4de_ghoshag_createdby" />
+  <EntityRelationship Name="lk_cr4de_ghoshag_modifiedby" />
+  <EntityRelationship Name="lk_cr4de_gitdeploy_createdby" />
+  <EntityRelationship Name="lk_cr4de_gitdeploy_modifiedby" />
+  <EntityRelationship Name="owner_cr4de_ag" />
+  <EntityRelationship Name="owner_cr4de_agops" />
+  <EntityRelationship Name="owner_cr4de_ghoshag" />
+  <EntityRelationship Name="owner_cr4de_gitdeploy" />
+  <EntityRelationship Name="team_cr4de_ag" />
+  <EntityRelationship Name="team_cr4de_agops" />
+  <EntityRelationship Name="team_cr4de_ghoshag" />
+  <EntityRelationship Name="team_cr4de_gitdeploy" />
+  <EntityRelationship Name="user_cr4de_ag" />
+  <EntityRelationship Name="user_cr4de_agops" />
+  <EntityRelationship Name="user_cr4de_ghoshag" />
+  <EntityRelationship Name="user_cr4de_gitdeploy" />
+</EntityRelationships>
